@@ -141,6 +141,9 @@ The goal is to predict whether a passenger survived the Titanic disaster.
 This project demonstrates how different machine learning algorithms perform on the same classification problem. The results show that ensemble methods like Random Forest can significantly improve predictive performance compared to simpler models.
 
 ---
+## 📊 Model Comparison
+
+![Model Accuracy](images/model_accuracy.png)
 
 # 👨‍💻 Author
 
